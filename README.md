@@ -1,7 +1,7 @@
 ## :cloud: Installation Guide
 
 ```sh
-git clone https://github.com/jawadkhan653/ReactWeatherApp.git
+git clone https://github.com/jawadkhan653/React-Recipe-App.git
 cd React-Weather-App
 npm i
 npm start
@@ -10,8 +10,8 @@ npm start
 npm run build
 ```
 
-## :Important
+## Important
 ```sh
-You can get Api_key from => https://www.food2fork.com/about/api
+You can get Recipe Api_key from => https://www.food2fork.com/about/api
 
 ```
